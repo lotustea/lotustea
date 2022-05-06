@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lotustea
+- 👀 I’m interested in Web Development, Devops, music technology.
+- 🌱 I’m currently learning PHP (Laravel), Js (and yours frameworks), System modeling, be more human.
+- 📫 How to reach me:
+ -*   https://www.linkedin.com/in/lotustea/ 
+ -*   https://soundcloud.com/lotus-tea
+
