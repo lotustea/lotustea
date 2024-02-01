@@ -5,5 +5,5 @@
  -*   https://www.linkedin.com/in/lotustea/ 
  -*   https://soundcloud.com/lotus-tea
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotustea&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotustea&layout=compact&count=10)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lotustea)](https://github.com/anuraghazra/github-readme-stats)
